@@ -1,0 +1,29 @@
+#p{
+    margin: 30px auto 20px auto;
+    text-align: justify;
+    color: #f5f5f5;
+}
+nav{
+    background-color: #151618;
+}
+nav > a, ul, li{
+    background-color: #151618;
+}
+.header-container-fluid{
+    background-color: #151618;
+}
+body{
+    background-color: #151618;
+}
+.col{
+    margin-top: 1.5rem;
+}
+.btn{
+    background-color: #151618;
+    color: #f5f5f5;
+}
+/* mouse overlink */
+.btn:hover{
+    color: #151618;
+    background-color: #f9813a;
+}
